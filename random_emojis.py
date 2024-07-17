@@ -1,7 +1,7 @@
 import random
 
 # List of some common emojis
-emojis = ["😀", "😂", "🥰", "😎", "🤔", "😜", "😢", "😡", "😱"]
+emojis = ["😀", "😂", "🥰", "😎", "🤔", "😜", "😇", "😡", "😱"]
 
 # Number of emojis to print (up to 9)
 num_emojis = random.randint(1, 9)
